@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Nothing!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Flinggoo?tab=projects](https://github.com/Flinggoo?tab=projects)
+- 👨‍💻 All of my projects are available at [link](https://github.com/Flinggoo?tab=projects)
 
 - 💬 Ask me about **My moms number**
 
