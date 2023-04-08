@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Flinggoo/Flinggoo/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Flinggoo</h1>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
