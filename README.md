@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flinggoo</h1>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flinggoo&label=Profile%20views&color=0e75b6&style=flat" alt="flinggoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flinggoo&label=Profile%20views&color=00e1ff&style=flat" alt="flinggoo" /> </p>
 
 - 🔭 I’m currently working on **Nothing!**
 
