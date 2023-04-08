@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Nothing!**
 
-- 👨‍💻 All of my projects are available at [ ](https://github.com/Flinggoo?tab=projects)
-
 - 💬 Ask me about **My moms number**
 
 - 📫 How to reach me **Flamingo#0208**
