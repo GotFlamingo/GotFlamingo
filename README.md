@@ -1,7 +1,7 @@
 ![logo](https://github.com/Flinggoo/Flinggoo/blob/main/mybanner.gif)
 
 <h1 align="center">Hi 👋, I'm Flinggoo</h1>
-<h3 align="center">A passionate frontend developer from Denmark</h3>
+<h3 align="center">A developer from Denmark</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
