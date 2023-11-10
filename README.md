@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **My moms number**
 
-- 📫 How to reach me **Flamingo#0208**
+- 📫 How to reach me **https://t.me/Flinggoo**
 
 - ⚡ Fun fact **i think i have a life!**
 
