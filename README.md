@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/flinggoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flinggoo" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/GnfaQVx9GJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GnfaQVx9GJ" height="30" width="40" /></a>
+<a href="[TIKTOk](https://www.tiktok.com/@gotsquad)" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/Ui_-OW6UJI147ySDX9guWWDiCPSq1vtxoC-xG17BU2FpU0Fi6qkWwuLdpddmT9fqrA" alt="https://www.tiktok.com/@gotsquad" height="30" width="40" /></a>
+<a href="[Telegram Group](https://t.me/gotsquad_hacking)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="https://t.me/gotsquad_hacking" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
