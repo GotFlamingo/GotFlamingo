@@ -1,7 +1,7 @@
 ![logo](https://github.com/Flinggoo/Flinggoo/blob/main/mybanner.gif)
 
 <h1 align="center">Hi 👋, I'm Gotsquad</h1>
-<h3 align="center">Im a Hacker from Denmark</h3>
+<h3 align="center">Im a Nigga from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flinggoo&label=Profile%20views&color=0e75b6&style=flat" alt="flinggoo" /> </p>
 
