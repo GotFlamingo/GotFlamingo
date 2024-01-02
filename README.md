@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Flinggoo&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flinggoo&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## ❤ Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ap5xrz6w26xnwkrcq6us6pqage&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ap5xrz6w26xnwkrcq6us6pqage&redirect=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## ❤ Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ap5xrz6w26xnwkrcq6us6pqage&cover_image=true&theme=default&show_offline=false&background_color=e01f90&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Flinggoo&icon=6&color=0)](https://visitcount.itsvg.in)
